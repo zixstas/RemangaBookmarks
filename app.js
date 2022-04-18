@@ -1,6 +1,6 @@
 const userID = xxxxxx // id старого аккаунта
 const userAuthorization = "xxxxxxxxxxxx" // код авторизации брать с нового аккаунта, можно взять из fetch запроса
-const sessionKey = "r7jdihzyjnsb2y7qoafvi4" // код сессии брать с нового аккаунта, тоже брать из fetch запроса
+const sessionKey = "xxxxxxxxxxxxxx" // код сессии брать с нового аккаунта, тоже брать из fetch запроса
 
 let arr = new Array();
 let saveIndex = 0
